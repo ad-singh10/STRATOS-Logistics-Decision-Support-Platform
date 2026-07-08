@@ -1,0 +1,9 @@
+warehouse_city,warehouse_type,primary_region,backup_region,selection_reason,city_id,latitude,longitude,city_region
+Mumbai,National Hub,West,Central,"Financial capital, western port access and national logistics gateway.",C02116,19.07283,72.88261,West
+Nagpur,National Hub,Central,West,Geographic center of India enabling efficient nationwide distribution.,C02127,21.14631,79.08491,West
+New Delhi,Regional Distribution Center,North,Central,Largest distribution hub for North India.,C00505,28.63576,77.22445,North
+Ahmedabad,Regional Distribution Center,West,North,Strong industrial corridor and manufacturing ecosystem.,C00567,23.02579,72.58727,West
+Bengaluru,Regional Distribution Center,South,Hyderabad,"High demand, technology hub and strong consumption market.",C01178,12.97194,77.59369,South
+Hyderabad,Regional Distribution Center,South,Central,Strategic central-south location with excellent connectivity.,C03208,17.38405,78.45636,South
+Chennai,Regional Distribution Center,South,Bengaluru,Port city with strong manufacturing base.,C02877,13.08784,80.27847,South
+Kolkata,Regional Distribution Center,East,North-East,Gateway to Eastern and North-Eastern India.,C04121,22.54111111,88.33777778,East

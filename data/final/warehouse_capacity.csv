@@ -1,0 +1,9 @@
+warehouse_city,warehouse_type,primary_region,cities_served,regional_demand_share,planning_score,design_capacity,operating_capacity
+Mumbai,National Hub,West,574,26.56,0.32378613093831243,120000,96000
+Nagpur,National Hub,Central,353,8.3,0.22072272512408414,100000,80000
+New Delhi,Regional Distribution Center,North,1010,23.87,0.3100435579228146,80000,64000
+Ahmedabad,Regional Distribution Center,West,548,26.56,0.2784709403383192,60000,48000
+Bengaluru,Regional Distribution Center,South,242,22.76,0.23244160921092616,45000,36000
+Hyderabad,Regional Distribution Center,South,257,22.76,0.23385971367795522,45000,36000
+Chennai,Regional Distribution Center,South,461,22.76,0.25314593442955063,55000,44000
+Kolkata,Regional Distribution Center,East,786,13.83,0.24368653121518047,70000,56000

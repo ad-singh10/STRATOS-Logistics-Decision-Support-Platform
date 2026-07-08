@@ -1,0 +1,76 @@
+sku_id,sku_code,product_name,category,unit,unit_price,weight_kg,storage_type,shelf_life_days,is_fragile,abc_class,velocity_class,velocity_multiplier,supplier_id,supplier_name,lead_time_days,created_at,updated_at,is_active
+SKU0001,ELE001,Laptop,Electronics,Pieces,65000,2.2,Standard,,True,A,Medium,1.0,SUP001,Dell India,10,2026-07-04,2026-07-04,True
+SKU0002,ELE002,Smartphone,Electronics,Pieces,35000,0.2,Standard,,True,A,Fast,1.5,SUP002,Samsung India,7,2026-07-04,2026-07-04,True
+SKU0003,ELE003,Tablet,Electronics,Pieces,28000,0.5,Standard,,True,A,Medium,1.0,SUP001,Dell India,9,2026-07-04,2026-07-04,True
+SKU0004,ELE004,Monitor,Electronics,Pieces,15000,4.5,Standard,,True,A,Medium,1.0,SUP003,LG Electronics,8,2026-07-04,2026-07-04,True
+SKU0005,ELE005,Keyboard,Electronics,Pieces,1200,0.7,Standard,,False,B,Fast,1.5,SUP004,Logitech,5,2026-07-04,2026-07-04,True
+SKU0006,ELE006,Mouse,Electronics,Pieces,700,0.2,Standard,,False,C,Fast,1.5,SUP004,Logitech,5,2026-07-04,2026-07-04,True
+SKU0007,ELE007,Printer,Electronics,Pieces,9000,8.0,Standard,,True,B,Slow,0.6,SUP005,HP India,12,2026-07-04,2026-07-04,True
+SKU0008,ELE008,Router,Electronics,Pieces,2500,0.4,Standard,,False,B,Medium,1.0,SUP006,TP-Link,6,2026-07-04,2026-07-04,True
+SKU0009,ELE009,SSD,Electronics,Pieces,4500,0.1,Standard,,True,B,Medium,1.0,SUP007,Western Digital,7,2026-07-04,2026-07-04,True
+SKU0010,ELE010,Hard Drive,Electronics,Pieces,6000,0.3,Standard,,True,B,Medium,1.0,SUP007,Western Digital,7,2026-07-04,2026-07-04,True
+SKU0011,ELE011,Smartwatch,Electronics,Pieces,12000,0.1,Standard,,True,A,Fast,1.5,SUP002,Samsung India,7,2026-07-04,2026-07-04,True
+SKU0012,ELE012,Power Bank,Electronics,Pieces,1800,0.4,Standard,,False,B,Fast,1.5,SUP008,Ambrane,5,2026-07-04,2026-07-04,True
+SKU0013,FMC001,Shampoo,FMCG,Pieces,350,0.5,Standard,730.0,False,C,Fast,1.5,SUP009,Hindustan Unilever,4,2026-07-04,2026-07-04,True
+SKU0014,FMC002,Soap,FMCG,Pieces,45,0.1,Standard,1095.0,False,C,Fast,1.5,SUP009,Hindustan Unilever,4,2026-07-04,2026-07-04,True
+SKU0015,FMC003,Toothpaste,FMCG,Pieces,120,0.2,Standard,730.0,False,C,Fast,1.5,SUP010,Colgate,4,2026-07-04,2026-07-04,True
+SKU0016,FMC004,Detergent,FMCG,Pieces,450,2.0,Standard,1095.0,False,C,Fast,1.5,SUP011,Surf Excel,5,2026-07-04,2026-07-04,True
+SKU0017,FMC005,Face Wash,FMCG,Pieces,220,0.2,Standard,730.0,False,C,Medium,1.0,SUP009,Hindustan Unilever,4,2026-07-04,2026-07-04,True
+SKU0018,FMC006,Hair Oil,FMCG,Pieces,180,0.3,Standard,730.0,False,C,Medium,1.0,SUP012,Parachute,5,2026-07-04,2026-07-04,True
+SKU0019,FMC007,Deodorant,FMCG,Pieces,250,0.2,Standard,730.0,False,C,Medium,1.0,SUP013,Nivea,6,2026-07-04,2026-07-04,True
+SKU0020,FMC008,Body Lotion,FMCG,Pieces,300,0.4,Standard,730.0,False,C,Medium,1.0,SUP013,Nivea,6,2026-07-04,2026-07-04,True
+SKU0021,FMC009,Dishwash Liquid,FMCG,Pieces,180,0.5,Standard,730.0,False,C,Fast,1.5,SUP014,Vim,4,2026-07-04,2026-07-04,True
+SKU0022,FMC010,Floor Cleaner,FMCG,Pieces,250,1.0,Standard,730.0,False,C,Fast,1.5,SUP015,Lizol,4,2026-07-04,2026-07-04,True
+SKU0023,FMC011,Hand Wash,FMCG,Pieces,150,0.3,Standard,730.0,False,C,Fast,1.5,SUP014,Lifebuoy,4,2026-07-04,2026-07-04,True
+SKU0024,FMC012,Tissue Pack,FMCG,Pieces,90,0.2,Standard,1095.0,False,C,Fast,1.5,SUP016,Origami,3,2026-07-04,2026-07-04,True
+SKU0025,GRO001,Rice,Grocery,Pieces,800,5.0,Standard,365.0,False,C,Fast,1.5,SUP017,ITC Foods,5,2026-07-04,2026-07-04,True
+SKU0026,GRO002,Wheat Flour,Grocery,Pieces,250,5.0,Standard,180.0,False,C,Fast,1.5,SUP018,Aashirvaad,5,2026-07-04,2026-07-04,True
+SKU0027,GRO003,Sugar,Grocery,Pieces,280,5.0,Standard,365.0,False,C,Fast,1.5,SUP019,Dhampur Sugar,5,2026-07-04,2026-07-04,True
+SKU0028,GRO004,Salt,Grocery,Pieces,120,1.0,Standard,730.0,False,C,Fast,1.5,SUP020,Tata Salt,4,2026-07-04,2026-07-04,True
+SKU0029,GRO005,Cooking Oil,Grocery,Pieces,900,5.0,Standard,365.0,False,C,Fast,1.5,SUP021,Fortune,5,2026-07-04,2026-07-04,True
+SKU0030,GRO006,Tea,Grocery,Pieces,450,1.0,Standard,365.0,False,C,Medium,1.0,SUP022,Tata Tea,5,2026-07-04,2026-07-04,True
+SKU0031,GRO007,Coffee,Grocery,Pieces,650,0.5,Standard,365.0,False,C,Medium,1.0,SUP023,Nescafe,5,2026-07-04,2026-07-04,True
+SKU0032,GRO008,Pulses,Grocery,Pieces,700,2.0,Standard,365.0,False,C,Fast,1.5,SUP024,24 Mantra,5,2026-07-04,2026-07-04,True
+SKU0033,GRO009,Biscuits,Grocery,Pieces,50,0.2,Standard,180.0,False,C,Fast,1.5,SUP025,Parle,3,2026-07-04,2026-07-04,True
+SKU0034,GRO010,Noodles,Grocery,Pieces,90,0.4,Standard,270.0,False,C,Fast,1.5,SUP026,Maggi,3,2026-07-04,2026-07-04,True
+SKU0035,GRO011,Spices,Grocery,Pieces,350,0.5,Standard,365.0,False,C,Medium,1.0,SUP027,MDH,5,2026-07-04,2026-07-04,True
+SKU0036,GRO012,Oats,Grocery,Pieces,220,1.0,Standard,365.0,False,C,Medium,1.0,SUP028,Quaker,5,2026-07-04,2026-07-04,True
+SKU0037,APP001,T-Shirt,Apparel,Pieces,700,0.3,Standard,,False,C,Fast,1.5,SUP029,Aditya Birla Fashion,7,2026-07-04,2026-07-04,True
+SKU0038,APP002,Jeans,Apparel,Pieces,1800,0.8,Standard,,False,B,Medium,1.0,SUP029,Aditya Birla Fashion,7,2026-07-04,2026-07-04,True
+SKU0039,APP003,Shirt,Apparel,Pieces,1200,0.4,Standard,,False,B,Medium,1.0,SUP029,Aditya Birla Fashion,7,2026-07-04,2026-07-04,True
+SKU0040,APP004,Jacket,Apparel,Pieces,3500,1.2,Standard,,False,B,Slow,0.6,SUP030,Woodland,10,2026-07-04,2026-07-04,True
+SKU0041,APP005,Hoodie,Apparel,Pieces,2200,0.8,Standard,,False,B,Medium,1.0,SUP031,Puma,8,2026-07-04,2026-07-04,True
+SKU0042,APP006,Shoes,Apparel,Pieces,2800,1.0,Standard,,False,B,Fast,1.5,SUP031,Puma,8,2026-07-04,2026-07-04,True
+SKU0043,APP007,Socks,Apparel,Pieces,250,0.1,Standard,,False,C,Fast,1.5,SUP032,Jockey,5,2026-07-04,2026-07-04,True
+SKU0044,APP008,Cap,Apparel,Pieces,400,0.2,Standard,,False,C,Medium,1.0,SUP031,Puma,6,2026-07-04,2026-07-04,True
+SKU0045,APP009,Shorts,Apparel,Pieces,900,0.3,Standard,,False,C,Medium,1.0,SUP029,Aditya Birla Fashion,7,2026-07-04,2026-07-04,True
+SKU0046,APP010,Track Pants,Apparel,Pieces,1400,0.5,Standard,,False,B,Medium,1.0,SUP031,Puma,7,2026-07-04,2026-07-04,True
+SKU0047,APP011,Belt,Apparel,Pieces,650,0.3,Standard,,False,C,Slow,0.6,SUP033,Levi's,7,2026-07-04,2026-07-04,True
+SKU0048,APP012,Backpack,Apparel,Pieces,2500,0.8,Standard,,False,B,Fast,1.5,SUP034,American Tourister,8,2026-07-04,2026-07-04,True
+SKU0049,HEA001,Face Mask,Healthcare,Pieces,250,0.2,Standard,1825.0,False,C,Fast,1.5,SUP035,3M India,4,2026-07-04,2026-07-04,True
+SKU0050,HEA002,Hand Gloves,Healthcare,Pieces,350,0.2,Standard,1825.0,False,C,Fast,1.5,SUP035,3M India,4,2026-07-04,2026-07-04,True
+SKU0051,HEA003,Sanitizer,Healthcare,Pieces,180,0.5,Standard,730.0,False,C,Fast,1.5,SUP036,Dettol,4,2026-07-04,2026-07-04,True
+SKU0052,HEA004,Thermometer,Healthcare,Pieces,450,0.2,Standard,,True,C,Medium,1.0,SUP037,Omron,6,2026-07-04,2026-07-04,True
+SKU0053,HEA005,Blood Pressure Monitor,Healthcare,Pieces,2200,0.8,Standard,,True,B,Slow,0.6,SUP037,Omron,8,2026-07-04,2026-07-04,True
+SKU0054,HEA006,Vitamin Tablets,Healthcare,Pieces,600,0.3,Standard,730.0,False,C,Medium,1.0,SUP038,Himalaya,6,2026-07-04,2026-07-04,True
+SKU0055,HEA007,First Aid Kit,Healthcare,Pieces,850,1.0,Standard,,False,C,Medium,1.0,SUP039,Johnson & Johnson,6,2026-07-04,2026-07-04,True
+SKU0056,HEA008,Bandages,Healthcare,Pieces,120,0.2,Standard,1825.0,False,C,Fast,1.5,SUP039,Johnson & Johnson,4,2026-07-04,2026-07-04,True
+SKU0057,HEA009,Pain Relief Spray,Healthcare,Pieces,300,0.4,Standard,730.0,False,C,Medium,1.0,SUP040,Volini,5,2026-07-04,2026-07-04,True
+SKU0058,AUT001,Engine Oil,Automotive,Pieces,1200,4.0,Standard,1095.0,False,B,Fast,1.5,SUP041,Castrol,6,2026-07-04,2026-07-04,True
+SKU0059,AUT002,Brake Pads,Automotive,Pieces,1800,2.0,Standard,,False,B,Medium,1.0,SUP042,Bosch,7,2026-07-04,2026-07-04,True
+SKU0060,AUT003,Car Battery,Automotive,Pieces,6500,12.0,Standard,,True,B,Slow,0.6,SUP043,Exide,10,2026-07-04,2026-07-04,True
+SKU0061,AUT004,Spark Plug,Automotive,Pieces,450,0.2,Standard,,False,C,Medium,1.0,SUP042,Bosch,6,2026-07-04,2026-07-04,True
+SKU0062,AUT005,Air Filter,Automotive,Pieces,650,0.4,Standard,,False,C,Medium,1.0,SUP042,Bosch,6,2026-07-04,2026-07-04,True
+SKU0063,AUT006,Coolant,Automotive,Pieces,900,5.0,Standard,1095.0,False,C,Medium,1.0,SUP044,Prestone,6,2026-07-04,2026-07-04,True
+SKU0064,AUT007,Tyre Inflator,Automotive,Pieces,2200,2.5,Standard,,True,B,Slow,0.6,SUP045,Michelin,8,2026-07-04,2026-07-04,True
+SKU0065,AUT008,Wiper Blade,Automotive,Pieces,500,0.5,Standard,,False,C,Fast,1.5,SUP042,Bosch,5,2026-07-04,2026-07-04,True
+SKU0066,AUT009,Lubricant,Automotive,Pieces,350,1.0,Standard,1095.0,False,C,Medium,1.0,SUP041,Castrol,5,2026-07-04,2026-07-04,True
+SKU0067,HOM001,LED Bulb,Home & Kitchen,Pieces,180,0.2,Standard,,True,C,Fast,1.5,SUP046,Philips,4,2026-07-04,2026-07-04,True
+SKU0068,HOM002,Ceiling Fan,Home & Kitchen,Pieces,2800,6.0,Standard,,True,B,Medium,1.0,SUP047,Havells,8,2026-07-04,2026-07-04,True
+SKU0069,HOM003,Mixer Grinder,Home & Kitchen,Pieces,3500,4.0,Standard,,True,B,Medium,1.0,SUP048,Prestige,7,2026-07-04,2026-07-04,True
+SKU0070,HOM004,Electric Kettle,Home & Kitchen,Pieces,1800,1.5,Standard,,True,B,Medium,1.0,SUP048,Prestige,7,2026-07-04,2026-07-04,True
+SKU0071,HOM005,Cookware Set,Home & Kitchen,Pieces,4200,6.0,Standard,,False,B,Slow,0.6,SUP048,Prestige,8,2026-07-04,2026-07-04,True
+SKU0072,HOM006,Plastic Chair,Home & Kitchen,Pieces,900,2.5,Standard,,False,C,Medium,1.0,SUP049,Nilkamal,6,2026-07-04,2026-07-04,True
+SKU0073,HOM007,Storage Box,Home & Kitchen,Pieces,650,1.0,Standard,,False,C,Fast,1.5,SUP049,Nilkamal,5,2026-07-04,2026-07-04,True
+SKU0074,HOM008,Water Bottle,Home & Kitchen,Pieces,350,0.4,Standard,,False,C,Fast,1.5,SUP050,Milton,4,2026-07-04,2026-07-04,True
+SKU0075,HOM009,Dustbin,Home & Kitchen,Pieces,500,1.5,Standard,,False,C,Medium,1.0,SUP049,Nilkamal,5,2026-07-04,2026-07-04,True

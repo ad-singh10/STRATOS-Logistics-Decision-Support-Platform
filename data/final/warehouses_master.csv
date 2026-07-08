@@ -1,0 +1,9 @@
+warehouse_id,warehouse_code,warehouse_name,warehouse_city,warehouse_type,primary_region,latitude,longitude,design_capacity,operating_capacity,warehouse_priority,warehouse_status,created_at,updated_at,is_active
+WH001,MUM_NH,Mumbai National Hub,Mumbai,National Hub,West,19.07283,72.88261,120000,96000,Critical,Active,2026-07-04,2026-07-04,True
+WH002,NAG_NH,Nagpur National Hub,Nagpur,National Hub,Central,21.14631,79.08491,100000,80000,Critical,Active,2026-07-04,2026-07-04,True
+WH003,DEL_RDC,New Delhi Regional Distribution Center,New Delhi,Regional Distribution Center,North,28.63576,77.22445,80000,64000,High,Active,2026-07-04,2026-07-04,True
+WH004,AMD_RDC,Ahmedabad Regional Distribution Center,Ahmedabad,Regional Distribution Center,West,23.02579,72.58727,60000,48000,Medium,Active,2026-07-04,2026-07-04,True
+WH005,BLR_RDC,Bengaluru Regional Distribution Center,Bengaluru,Regional Distribution Center,South,12.97194,77.59369,45000,36000,Medium,Active,2026-07-04,2026-07-04,True
+WH006,HYD_RDC,Hyderabad Regional Distribution Center,Hyderabad,Regional Distribution Center,South,17.38405,78.45636,45000,36000,Medium,Active,2026-07-04,2026-07-04,True
+WH007,MAA_RDC,Chennai Regional Distribution Center,Chennai,Regional Distribution Center,South,13.08784,80.27847,55000,44000,Medium,Active,2026-07-04,2026-07-04,True
+WH008,CCU_RDC,Kolkata Regional Distribution Center,Kolkata,Regional Distribution Center,East,22.54111111,88.33777778,70000,56000,High,Active,2026-07-04,2026-07-04,True

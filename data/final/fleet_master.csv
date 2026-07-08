@@ -1,0 +1,41 @@
+vehicle_id,vehicle_number,vehicle_type,vehicle_category,payload_capacity_kg,fuel_type,fuel_efficiency_kmpl,home_warehouse,warehouse_code,vehicle_status,current_load_kg,created_at,is_active
+VEH001,MH82CT5012,Heavy Truck,Heavy,16000,Diesel,5,WH001,MUM_NH,Available,0,2026-07-07,True
+VEH002,MH18TR9935,Heavy Truck,Heavy,16000,Diesel,5,WH001,MUM_NH,Available,0,2026-07-07,True
+VEH003,MH76KA4582,Medium Truck,Medium,7500,Diesel,8,WH001,MUM_NH,Available,0,2026-07-07,True
+VEH004,MH65PO9928,Medium Truck,Medium,7500,Diesel,8,WH001,MUM_NH,Available,0,2026-07-07,True
+VEH005,MH29LH1106,Mini Truck,Light,2000,Diesel,12,WH001,MUM_NH,Maintenance,0,2026-07-07,True
+VEH006,MH21SI3547,Heavy Truck,Heavy,16000,Diesel,5,WH002,NAG_NH,Available,0,2026-07-07,True
+VEH007,MH98IC2584,Heavy Truck,Heavy,16000,Diesel,5,WH002,NAG_NH,Available,0,2026-07-07,True
+VEH008,MH45PU8527,Medium Truck,Medium,7500,Diesel,8,WH002,NAG_NH,Available,0,2026-07-07,True
+VEH009,MH16ZJ5803,Medium Truck,Medium,7500,Diesel,8,WH002,NAG_NH,On Trip,0,2026-07-07,True
+VEH010,MH80XJ4150,Mini Truck,Light,2000,Diesel,12,WH002,NAG_NH,Maintenance,0,2026-07-07,True
+VEH011,DL09BF5741,Medium Truck,Medium,7500,Diesel,8,WH003,DEL_RDC,Available,0,2026-07-07,True
+VEH012,DL30WJ8428,Medium Truck,Medium,7500,Diesel,8,WH003,DEL_RDC,On Trip,0,2026-07-07,True
+VEH013,DL47EJ5374,Mini Truck,Light,2000,Diesel,12,WH003,DEL_RDC,On Trip,0,2026-07-07,True
+VEH014,DL88QP3803,Mini Truck,Light,2000,Diesel,12,WH003,DEL_RDC,Available,0,2026-07-07,True
+VEH015,DL94GM5422,Heavy Truck,Heavy,16000,Diesel,5,WH003,DEL_RDC,On Trip,0,2026-07-07,True
+VEH016,GJ89OR1916,Medium Truck,Medium,7500,Diesel,8,WH004,AMD_RDC,Available,0,2026-07-07,True
+VEH017,GJ05UK2084,Medium Truck,Medium,7500,Diesel,8,WH004,AMD_RDC,Available,0,2026-07-07,True
+VEH018,GJ73WI9179,Mini Truck,Light,2000,Diesel,12,WH004,AMD_RDC,Available,0,2026-07-07,True
+VEH019,GJ83LG5040,Mini Truck,Light,2000,Diesel,12,WH004,AMD_RDC,Maintenance,0,2026-07-07,True
+VEH020,GJ72OT8019,Heavy Truck,Heavy,16000,Diesel,5,WH004,AMD_RDC,On Trip,0,2026-07-07,True
+VEH021,KA52JZ3266,Medium Truck,Medium,7500,Diesel,8,WH005,BLR_RDC,Available,0,2026-07-07,True
+VEH022,KA64CB2796,Medium Truck,Medium,7500,Diesel,8,WH005,BLR_RDC,Available,0,2026-07-07,True
+VEH023,KA81ER2040,Mini Truck,Light,2000,Diesel,12,WH005,BLR_RDC,Available,0,2026-07-07,True
+VEH024,KA49PM5119,Mini Truck,Light,2000,Diesel,12,WH005,BLR_RDC,On Trip,0,2026-07-07,True
+VEH025,KA02RC9797,Heavy Truck,Heavy,16000,Diesel,5,WH005,BLR_RDC,Maintenance,0,2026-07-07,True
+VEH026,TS35TI5808,Medium Truck,Medium,7500,Diesel,8,WH006,HYD_RDC,Available,0,2026-07-07,True
+VEH027,TS21LY5315,Medium Truck,Medium,7500,Diesel,8,WH006,HYD_RDC,Available,0,2026-07-07,True
+VEH028,TS98EX5889,Mini Truck,Light,2000,Diesel,12,WH006,HYD_RDC,On Trip,0,2026-07-07,True
+VEH029,TS65PD3646,Mini Truck,Light,2000,Diesel,12,WH006,HYD_RDC,Available,0,2026-07-07,True
+VEH030,TS68XP9005,Heavy Truck,Heavy,16000,Diesel,5,WH006,HYD_RDC,Available,0,2026-07-07,True
+VEH031,TN15YW6038,Medium Truck,Medium,7500,Diesel,8,WH007,MAA_RDC,Available,0,2026-07-07,True
+VEH032,TN08GO2290,Medium Truck,Medium,7500,Diesel,8,WH007,MAA_RDC,Available,0,2026-07-07,True
+VEH033,TN94MB9727,Mini Truck,Light,2000,Diesel,12,WH007,MAA_RDC,Maintenance,0,2026-07-07,True
+VEH034,TN17DM3705,Mini Truck,Light,2000,Diesel,12,WH007,MAA_RDC,Available,0,2026-07-07,True
+VEH035,TN68WL4470,Heavy Truck,Heavy,16000,Diesel,5,WH007,MAA_RDC,Available,0,2026-07-07,True
+VEH036,WB97SF6107,Medium Truck,Medium,7500,Diesel,8,WH008,CCU_RDC,Available,0,2026-07-07,True
+VEH037,WB86QL9479,Medium Truck,Medium,7500,Diesel,8,WH008,CCU_RDC,Available,0,2026-07-07,True
+VEH038,WB16GB1344,Mini Truck,Light,2000,Diesel,12,WH008,CCU_RDC,On Trip,0,2026-07-07,True
+VEH039,WB71FF2163,Mini Truck,Light,2000,Diesel,12,WH008,CCU_RDC,Maintenance,0,2026-07-07,True
+VEH040,WB81BB1514,Heavy Truck,Heavy,16000,Diesel,5,WH008,CCU_RDC,Available,0,2026-07-07,True
