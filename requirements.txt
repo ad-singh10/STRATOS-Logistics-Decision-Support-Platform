@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+folium
+geopandas
+matplotlib
+joblib
+branca
+shapely
+pyproj
+fiona
