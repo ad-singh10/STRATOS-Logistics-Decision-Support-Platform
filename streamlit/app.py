@@ -1,7 +1,7 @@
 """
 =========================================================
 STRATOS
- Logistics Decision Intelligence Platform
+ Logistics Decision  Platform
 =========================================================
 """
 
@@ -27,7 +27,7 @@ from folium.plugins import Fullscreen, MiniMap, MousePosition
 
 st.set_page_config(
 
-    page_title="STRATOS  Logistics Decision Intelligence Platform",
+    page_title="STRATOS  Logistics Decision  Platform",
 
     layout="wide",
 
