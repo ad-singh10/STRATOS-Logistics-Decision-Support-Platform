@@ -101,7 +101,7 @@ page = st.sidebar.radio(
 
         "Shipment Explorer",
 
-        "AI Decision Engine",
+        "Decision Engine",
 
         "Spatial Intelligence",
 
@@ -464,12 +464,12 @@ elif page == "Shipment Explorer":
 # AI DECISION ENGINE PAGE
 # =========================================================
 
-elif page == "AI Decision Engine":
+elif page == "Decision Engine":
 
-    st.title("AI Decision Engine")
+    st.title("Decision Engine")
 
     st.caption(
-        "Enterprise AI Decision Support Dashboard"
+        "Enterprise  Decision Support Dashboard"
     )
 
     st.markdown("---")    
@@ -659,13 +659,13 @@ elif page == "AI Decision Engine":
         )  
 
 # =========================================================
-# AI DECISION TABLE
+#  DECISION TABLE
 # =========================================================
 
     st.markdown("---")
 
     st.subheader(
-        "AI Decision Summary"
+        "Decision Summary"
     )
 
     st.dataframe(
